@@ -273,3 +273,4 @@ aesara
 yarn
 pytest-asyncio
 colorlog
+pwntools
